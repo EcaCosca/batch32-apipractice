@@ -11,7 +11,7 @@ const FetchPokemon = () => {
 
   return (
     <div>
-        <h2>List of Pokemon</h2>
+        <h2>List of Pokemon using Fetch</h2>
 
         {
             pokemons ? 
